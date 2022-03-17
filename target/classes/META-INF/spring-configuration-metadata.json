@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "tech.getarrays.employeemanager.config.AppConfig",
+      "sourceType": "tech.getarrays.employeemanager.config.AppConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.url",
+      "type": "java.lang.String",
+      "sourceType": "tech.getarrays.employeemanager.config.AppConfig"
+    }
+  ],
+  "hints": []
+}
